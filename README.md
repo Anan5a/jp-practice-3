@@ -10,3 +10,6 @@ An app that utilizes Jetpack compose to build drawer navigation and bottom navig
 ![Screenshot_2024-01-27-13-29-20-42_378c5b1839799cdac293a45e5a1cdab5](https://github.com/Anan5a/jp-practice-3/assets/16373480/25dd04f7-795e-4c8b-b0a0-835fd59a1b83)
 
 Try out by downloading from here: https://drive.google.com/file/d/1XUjtW3i36QbIvl91X_h7Gg9b4TmWIJex/view?usp=drive_link
+
+### Deep links
+Use url https://example.com/detail/{ID} to check deep link. For example https://example.com/detail/12
