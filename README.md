@@ -12,4 +12,4 @@ An app that utilizes Jetpack compose to build drawer navigation and bottom navig
 Try out by downloading from here: https://drive.google.com/file/d/1XUjtW3i36QbIvl91X_h7Gg9b4TmWIJex/view?usp=drive_link
 
 ### Deep links
-Use url https://example.com/detail/{ID} to check deep link. For example https://example.com/detail/12
+Use url https://example.com/detail/{ID} to check deep link. For example https://example.com/detail/22
